@@ -14,6 +14,7 @@ CppCompile is a fast, flexible command-line tool for compiling and running C++ s
 
 ```bash
 gh repo clone zimoshi/cppcompile
+cd cppcompile
 sh setup.sh
 ````
 
