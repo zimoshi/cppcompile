@@ -1,6 +1,6 @@
 # CppCompile
 
-[![Install CppCompile](https://img.shields.io/badge/%20Install-CppCompile-blue)](https://zimoshi.github.io/minicube/setup.sh)
+[![Install CppCompile](https://img.shields.io/badge/%20Install-CppCompile-blue)](https://github.com/zimoshi/cppcompile/raw/main/setup.sh)
 
 CppCompile is a fast, flexible command-line tool for compiling and running C++ source files with ease.
 
@@ -47,4 +47,5 @@ cppcompile -pR demo.cpp
 ```
 
 ## Demo
-<a href="https://github.com/zimoshi/cppcompile/"><img src="demo.svg"/></a>
+
+<a href="https://github.com/zimoshi/cppcompile/"><img src="demo.svg" alt="CppCompile demo"/></a>
