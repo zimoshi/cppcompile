@@ -44,4 +44,4 @@ cppcompile -pR demo.cpp
 ```
 
 ## Demo
-<a href=""><img src="demo.svg"/></a>
+<a href="https://github.com/zimoshi/cppcompile/"><img src="demo.svg"/></a>
