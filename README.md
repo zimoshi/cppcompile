@@ -42,3 +42,6 @@ cppcompile -nR mycode.cpp
 cppcompile --include=cmath test.cpp
 cppcompile -pR demo.cpp
 ```
+
+## Demo
+<img src="demo.svg"/>
