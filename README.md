@@ -44,4 +44,4 @@ cppcompile -pR demo.cpp
 ```
 
 ## Demo
-<img src="demo.svg"/>
+<a href=""><img src="demo.svg"/></a>
