@@ -49,3 +49,7 @@ cppcompile -pR demo.cpp
 ## Demo
 
 <a href="https://github.com/zimoshi/cppcompile/"><img src="demo.svg" alt="CppCompile demo"/></a>
+
+## License
+
+MCPL MiniCube Private license
